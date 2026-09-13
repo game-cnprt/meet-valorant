@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+*.env.local
+
+# Build output
+dist/
+build/
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
